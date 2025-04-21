@@ -1,2 +1,2 @@
-# My-first-commit
-My-first-commit
+# Hello GitHub! This is my first commit!
+
